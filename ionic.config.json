@@ -1,0 +1,7 @@
+{
+  "name": "mySab",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
